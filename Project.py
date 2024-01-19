@@ -13,7 +13,7 @@ def F_To_C():
 def main():
     print('''
              A.Convert Temperature Celsius To Fahrenheit
-             B.Convert Temperature Celsius To Fahrenheit''')
+             B.Convert Temperature Fahrenheit To Celsius''')
     X=input("Enter Your Choice..?")
     if (X=='A'):
         C_To_F()
